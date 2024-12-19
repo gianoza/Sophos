@@ -1695,8 +1695,6 @@ zero.internet.org
 zh-cn.facebook.com
 zh-hk.facebook.com
 zh-tw.facebook.com
-
-# Instagram
 a.ns.cdninstagram.com
 api.instagram.com
 b.ns.cdninstagram.com
@@ -2107,8 +2105,6 @@ z-p42-scontent-waw1-1.cdninstagram.com
 z-p42-scontent-yyz1-1.cdninstagram.com
 z-p42-scontent.cdninstagram.com
 z-p42-static.cdninstagram.com
-
-# Whatsapp
 account.whatsapp.com
 alpha.whatsapp.com
 api.whatsapp.com
@@ -2291,12 +2287,8 @@ whatsapp.net
 www-cdn.whatsapp.net
 www.whatsapp.com
 wwwl.whatsapp.com
-
-# Threads
 threads.net
 www.threads.net
-
-# Twitter
 0.twitter.com
 2010.twitter.com
 2011.twitter.com
@@ -2470,8 +2462,6 @@ www.x.com
 www2.twitter.com
 www4.twitter.com
 x.com
-
-# LinkedIn
 addtoprofile.linkedin.com
 ads.linkedin.com
 ae.linkedin.com
@@ -2702,8 +2692,6 @@ yardim.linkedin.com
 za.linkedin.com
 zh-cn.help.linkedin.com
 zh-tw.help.linkedin.com
-
-# MySpace
 a1-images.myspacecdn.com
 a1.ec-images.myspacecdn.com
 a2-images.myspacecdn.com
@@ -2759,8 +2747,6 @@ www.myspace.com
 www.myspacecdn.com
 www1.myspace.com
 x.myspacecdn.com
-
-# Pinterest
 about.pinterest.com
 accounts.pinterest.com
 ads.pinterest.com
@@ -2804,8 +2790,6 @@ www.pinterest.com.au
 www.pinterest.com.edgekey.net
 www.pinterest.com.gslb.pinterest.com
 www.pinterest.fr
-
-# Tumblr
 24.media.tumblr.com
 25.media.tumblr.com
 28.media.tumblr.com
@@ -2834,8 +2818,6 @@ tumblr.tumblr.com
 v.tumblr.com
 vt.tumblr.com
 www.tumblr.com
-
-# Reddit
 a.thumbs.redditmedia.com
 about.reddit.com
 accounts.reddit.com
@@ -2912,8 +2894,6 @@ www.redditgifts.com
 www.redditinc.com
 www.redditmedia.com
 www.redditstatic.com
-
-# TikTok
 abtest-sg-tiktok.byteoversea.com
 abtest-va-tiktok.byteoversea.com
 ads.tiktok.com
@@ -3082,8 +3062,6 @@ xlog-va.byteoversea.com
 xlog-va.tiktokv.com
 xlog.tiktokv.com
 xlog.tiktokv.com.edgesuite.net
-
-# DateMeme
 datememe.com
 www.datememe.com
 admin.datememe.com
@@ -3106,8 +3084,6 @@ ru.datememe.com
 th.datememe.com
 vi.datememe.com
 zh-cn.datememe.com
-
-# clubhouse
 joinclubhouse.com
 www.joinclubhouse.com
 welcome.joinclubhouse.com
@@ -3116,9 +3092,6 @@ staging.joinclubhouse.com
 admin-staging.joinclubhouse.com
 ios.joinclubhouse.com
 testflight.joinclubhouse.com
-
-# Dating sites
-# from https://github.com/StevenBlack/hosts/issues/2023
 tinder.com
 bumble.com
 badoo.com
@@ -3130,11 +3103,7 @@ weareher.com
 clover.co
 pof.com
 match.com
-
-# TikTok clone
 likee.video
-
-#Snapchat
 accounts.snapchat.com
 api-kit.snapchat.com
 app-analytics-v2.snapchat.com
